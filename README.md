@@ -3,6 +3,8 @@
 [![Static Badge](https://img.shields.io/badge/gmail-black?logo=gmail&logoColor=white)](mek4102@gmail.com)
 [![Static Badge](https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white)](https://www.instagram.com/mo.ei.ka/)
 
+<img src="https://i.imgur.com/xX9gbp9.png" alt="uwuface" height="200" width="500">
+
 I'm Siranat Singhatas 🤡
 
 Computer Engineering student at Chulalongkorn University.
