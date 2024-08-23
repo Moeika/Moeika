@@ -16,9 +16,11 @@ I did **nothing**.
 
 ## My Skills
 
-[![rebirth](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Anivia_Rebirth.png/revision/latest?cb=20240810171429)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_P1.mp4)  
+[![rebirth](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Anivia_Rebirth.png/revision/latest?cb=20240810171429)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_P1.mp4)
 
 Passive
+
+<img src="https://s3.ezgif.com/tmp/ezgif-3-bd3eda5ce7.gif" height="200" width="200">
 
 [![flashforst](https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Anivia_Flash_Frost.png/revision/latest?cb=20240810171345)](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_Q1.mp4)  
 
