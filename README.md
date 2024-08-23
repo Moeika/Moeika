@@ -32,6 +32,6 @@ W
 
 E
 
-<img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Anivia_Glacial_Storm.png/revision/latest?cb=20240810171415" height="100" width="100"> <img src="https://s3.ezgif.com/tmp/ezgif-3-3398407a7d.gif" heigth="100" width="200">
+<img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Anivia_Glacial_Storm.png/revision/latest?cb=20240810171415" height="100" width="100"> <img src="https://s3.ezgif.com/tmp/ezgif-3-e99948b5c3.gif" heigth="100" width="200">
 
 R
