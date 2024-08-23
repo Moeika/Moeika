@@ -16,18 +16,22 @@ I did **nothing**.
 
 ## My Skills
 
-![rebirth](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Anivia_Rebirth.png/revision/latest?cb=20240810171429)   
-<video controls>
-  <source=
+<img src="https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Anivia_Rebirth.png/revision/latest?cb=20240810171429" height="100" width="100"> <img src="https://s3.ezgif.com/tmp/ezgif-3-b040ac447d.gif" heigth="100" width="200">
 
 Passive
 
-![flashforst](https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Anivia_Flash_Frost.png/revision/latest?cb=20240810171345)   Q
+<img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Anivia_Flash_Frost.png/revision/latest?cb=20240810171345" height="100" width="100"> <img src="https://s3.ezgif.com/tmp/ezgif-3-68765da488.gif" heigth="100" width="200">
 
-![crystallize](https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Anivia_Crystallize.png/revision/latest?cb=20240810171331)   W
+Q
 
-![frostbite](https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Anivia_Frostbite.png/revision/latest?cb=20240810171407)   E
+<img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Anivia_Crystallize.png/revision/latest?cb=20240810171331" height="100" width="100"> <img src="https://s3.ezgif.com/tmp/ezgif-3-bbaf705bc8.gif" heigth="100" width="200">
 
-![glacialstorm](https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Anivia_Glacial_Storm.png/revision/latest?cb=20240810171415)   R
+W
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
+<img src="https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Anivia_Frostbite.png/revision/latest?cb=20240810171407" height="100" width="100"> <img src="https://s3.ezgif.com/tmp/ezgif-3-a9ea965e2f.gif" heigth="100" width="200">
+
+E
+
+<img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Anivia_Glacial_Storm.png/revision/latest?cb=20240810171415" height="100" width="100"> <img src="https://s3.ezgif.com/tmp/ezgif-3-e99948b5c3.gif" heigth="100" width="200">
+
+R
