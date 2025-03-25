@@ -11,8 +11,5 @@ Computer Engineering student at Chulalongkorn University.
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-## What did i do
-I did **nothing**. 
-
 ## My Skills
 
